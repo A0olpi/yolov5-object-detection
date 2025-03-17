@@ -1,0 +1,4 @@
+train: dataset/images/train  # Path to training images
+val: dataset/images/val      # Path to validation images
+nc: 1                       # Number of classes (only boxing_glove)
+names: ['boxing_gloves']     # Class names
